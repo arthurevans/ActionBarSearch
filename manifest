@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Arthur Evans
+license: Specify your license
+copyright: Copyright (c) 2012 by Your Company
+
+
+# these should not be edited
+name: actionbarsearch
+moduleid: com.evarino.actionbarsearch
+guid: 548068d1-b7a7-4974-a3a0-38c87a25b9d7
+platform: android
+minsdk: 2.1.3.GA
